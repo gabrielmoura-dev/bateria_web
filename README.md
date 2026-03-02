@@ -2,11 +2,9 @@
 
 Uma bateria virtual interativa construída com tecnologias web modernas. Toque bateria diretamente no seu navegador utilizando o teclado ou cliques do mouse!
 
-![Banner ou Screenshot do Projeto](https://via.placeholder.com/800x400?text=Bateria+Web+Demo)
-
 ## 🚀 Demonstração
 
-Você pode visualizar o projeto online aqui: [Link do seu site (ex: GitHub Pages/Vercel)](#)
+Você pode visualizar o projeto online aqui: [https://gabrielmoura-dev.github.io/bateria_web/](#)
 
 ## ✨ Funcionalidades
 
