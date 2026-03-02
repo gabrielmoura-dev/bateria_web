@@ -4,7 +4,7 @@ Uma bateria virtual interativa construída com tecnologias web modernas. Toque b
 
 ## 🚀 Demonstração
 
-Você pode visualizar o projeto online aqui: [[https://gabrielmoura-dev.github.io/bateria_web/](#)](https://gabrielmoura-dev.github.io/bateria_web/)
+Você pode visualizar o projeto online aqui: https://gabrielmoura-dev.github.io/bateria_web/
 
 ## ✨ Funcionalidades
 
